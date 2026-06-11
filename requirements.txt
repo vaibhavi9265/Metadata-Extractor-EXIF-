@@ -1,0 +1,129 @@
+========== BASIC IMAGE INFO ==========
+
+File Name : Canon_DIGITAL_IXUS_400.jpg
+File Size : 8.98 KB
+Format    : JPEG
+Dimensions: (100, 75)
+Color Mode: RGB
+
+========== EXIF METADATA ==========
+
+Image Make: Canon
+Image Model: Canon DIGITAL IXUS 400
+Image XResolution: 72
+Image YResolution: 72
+Image ResolutionUnit: Pixels/Inch
+Image Software: GIMP 2.4.5
+Image DateTime: 2008:07:31 17:15:01
+Image YCbCrPositioning: Centered
+Image ExifOffset: 200
+Thumbnail Compression: JPEG (old-style)
+Thumbnail XResolution: 72
+Thumbnail YResolution: 72
+Thumbnail ResolutionUnit: Pixels/Inch
+Thumbnail JPEGInterchangeFormat: 1432
+Thumbnail JPEGInterchangeFormatLength: 1805
+EXIF ExposureTime: 1/200
+EXIF FNumber: 10
+EXIF ExifVersion: 0220
+EXIF DateTimeOriginal: 2004:08:27 13:52:55
+EXIF DateTimeDigitized: 2004:08:27 13:52:55
+EXIF ComponentsConfiguration: YCbCr
+EXIF CompressedBitsPerPixel: 3
+EXIF ShutterSpeedValue: 245/32
+EXIF ApertureValue: 213/32
+EXIF ExposureBiasValue: 0
+EXIF MaxApertureValue: 4
+EXIF MeteringMode: Pattern
+EXIF Flash: Flash did not fire, auto mode
+EXIF FocalLength: 247/16
+EXIF FlashPixVersion: 0100
+EXIF ColorSpace: sRGB
+EXIF ExifImageWidth: 100
+EXIF ExifImageLength: 75
+Interoperability InteroperabilityIndex: R98
+Interoperability InteroperabilityVersion: [48, 49, 48, 48]
+Interoperability RelatedImageWidth: 2272
+Interoperability RelatedImageLength: 1704
+EXIF InteroperabilityOffset: 1284
+EXIF FocalPlaneXResolution: 56800/7
+EXIF FocalPlaneYResolution: 56800/7
+EXIF FocalPlaneResolutionUnit: 2
+EXIF SensingMethod: One-chip color area
+EXIF FileSource: Digital Camera
+EXIF CustomRendered: Custom
+EXIF ExposureMode: Auto Exposure
+EXIF WhiteBalance: Auto
+EXIF DigitalZoomRatio: 1
+EXIF SceneCaptureType: Standard
+MakerNote Tag 0x0000: [0, 0, 0, 0]
+MakerNote FlashInfo: [1024, 0, 0, 0]
+MakerNote ImageType: IMG:DIGITAL IXUS 400 JPEG
+MakerNote FirmwareVersion: Firmware Version 1.00
+MakerNote ImageNumber: 1242489
+MakerNote OwnerName: Jean-Pierre Grignon
+MakerNote ModelID: PowerShot S400 / Digital IXUS 400 / IXY Digital 400
+MakerNote ThumbnailImageValidArea: [0, 0, 0, 0]
+MakerNote Macromode: Normal
+MakerNote SelfTimer: 0
+MakerNote Quality: Fine
+MakerNote FlashMode: Auto
+MakerNote ContinuousDriveMode: Single Or Timer
+MakerNote Unknown: 3
+MakerNote FocusMode: Single
+MakerNote RecordMode: JPEG
+MakerNote ImageSize: Large
+MakerNote EasyShootingMode: Full Auto
+MakerNote DigitalZoom: None
+MakerNote Contrast: Normal
+MakerNote Saturation: Normal
+MakerNote Sharpness: Normal
+MakerNote ISO: Auto
+MakerNote MeteringMode: Evaluative
+MakerNote FocusType: Auto
+MakerNote AFPointSelected: Unknown
+MakerNote ExposureMode: Easy Shooting
+MakerNote LensType: n/a
+MakerNote LongFocalLengthOfLensInFocalUnits: 711
+MakerNote ShortFocalLengthOfLensInFocalUnits: 237
+MakerNote FocalUnitsPerMM: 32
+MakerNote MaxAperture: 130
+MakerNote MinAperture: 215
+MakerNote FlashActivity: Did Not Fire
+MakerNote FlashDetails: Manual
+MakerNote AESetting: Normal AE
+MakerNote ImageStabilization: Unknown
+MakerNote SpotMeteringMode: AF Point
+MakerNote ManualFlashOutput: n/a
+MakerNote FocalType: Unknown
+MakerNote FocalLength: 286
+MakerNote AutoISO: 0
+MakerNote BaseISO: 128
+MakerNote MeasuredEV: 335
+MakerNote TargetAperture: 213
+MakerNote TargetExposureTime: 245
+MakerNote ExposureCompensation: 0
+MakerNote WhiteBalance: Auto
+MakerNote SlowShutter: Off
+MakerNote SequenceNumber: 0
+MakerNote OpticalZoomCode: 4
+MakerNote CameraTemperature: -128 C
+MakerNote FlashGuideNumber: 0
+MakerNote AFPointUsed: 0
+MakerNote FlashBias: 0 EV
+MakerNote AutoExposureBracketing: Off
+MakerNote ControlMode: Camera Local Control
+MakerNote SubjectDistance: 216
+MakerNote ValidAFPoints: 9
+MakerNote CanonImageWidth: 2272
+MakerNote CanonImageHeight: 1704
+MakerNote AFImageWidth: 2272
+MakerNote AFImageHeight: 212
+MakerNote AFAreaWidth: 409
+MakerNote AFAreaHeight: 38
+MakerNote AFAreaXPositions: 65126
+MakerNote AFAreaYPositions: 0
+MakerNote AFPointsInFocus: 410
+MakerNote PrimaryAFPoint : 0
+
+Total Metadata Fields: 117

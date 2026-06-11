@@ -1,0 +1,16 @@
+DIGITAL FORENSICS REPORT
+==================================================
+
+
+File Name : WhatsApp Image 2026-06-10 at 12.55.04 PM.jpeg
+Format    : JPEG
+Resolution: 980 x 1280
+
+No Metadata Found
+
+
+Risk Score : 0/100
+Risk Level : LOW
+
+Recommendations:
+• No privacy risks detected

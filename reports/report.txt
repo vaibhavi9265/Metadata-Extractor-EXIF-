@@ -1,0 +1,18 @@
+METADATA ANALYSIS REPORT
+==================================================
+
+
+File Name : a.jpg
+Format : JPEG
+Resolution : 4000 x 2667
+
+
+METADATA
+----------------------------------------
+No EXIF Metadata Found
+
+Risk Score : 0/100
+Risk Level : LOW
+
+RECOMMENDATIONS
+No Privacy Risk Detected
